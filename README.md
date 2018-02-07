@@ -9,7 +9,7 @@ How to install
 ==============
 
 1) Download Chrome extension [here](https://github.com/julieeeeeee/its-time-to-relax/archive/master.zip)
-2) On Chrome, go to: [chrome://extensions](chrome://extensions/)
+2) On Chrome, go to: 'chrome://extensions'
 3) Make sure 'Developer mode' is checked
 4) Click 'Load unpacked extension...'
 5) Find and select the downloaded file
