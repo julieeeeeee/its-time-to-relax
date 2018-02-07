@@ -1,0 +1,16 @@
+{
+    "background": {
+        "page": "background.html"
+    },
+    "browser_action": {
+        "default_title": "It's time to relax"
+    },
+    "description": "Take some time and just relax. Now with offline support!",
+    "icons": {
+        "128": "images/main.png"
+    },
+    "name": "It's time to relax",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "author": "Justin Zelinsky (modified by Julie Kim)"
+}
