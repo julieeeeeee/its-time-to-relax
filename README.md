@@ -8,6 +8,11 @@ A Chrome extension which allows you to take some time and just relax
 2) Unzip downloaded file
 3) Make sure 
 2) On Chrome, go to: 'chrome://extensions'
+
+This is [chrome://extensions](chrome://extensions){:target="_blank"}
+
+
+
 3) Make sure 'Developer mode' is checked
 4) Click 'Load unpacked extension...'
 5) Find and select folder 'its-time-to-relax-master'
@@ -15,6 +20,8 @@ A Chrome extension which allows you to take some time and just relax
 
 ## Credits
 
-Justin Zelinsky (Basically, I moved code from https://github.com/justinzelinsky/relax into the Chrome extension: Rainy Mood Offline and added coffee images to set the mood ^_^)
+Justin Zelinsky
+
+Basically, I moved code from https://github.com/justinzelinsky/relax into the Chrome extension: Rainy Mood Offline and added coffee images to set the mood ^_^
 
 Enjoy!
