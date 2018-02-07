@@ -2,7 +2,9 @@
 
 A Chrome extension which allows you to take some time and just relax
 
-Modified from Chrome extension: Rainy Mood Offline (Justin Zelinsky) and https://github.com/justinzelinsky/relax
+# Credits
+
+Justin Zelinsky (Basically, I moved code from https://github.com/justinzelinsky/relax into the Chrome extension: Rainy Mood Offline and added coffee images to set the mood ^_^)
 
 ## How to install
 
