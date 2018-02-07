@@ -4,7 +4,7 @@ A Chrome extension which allows you to take some time and just relax
 
 ## How to install
 
-1) Download Chrome extension [here](https://github.com/julieeeeeee/its-time-to-relax/blob/master/its-time-to-relax.zip?raw=true)
+1) Download Chrome extension [here](https://www.dropbox.com/s/t02h225mk9wu3uy/its-time-to-relax.zip?dl=1)
 2) Unzip downloaded file
 2) On Chrome, go to: 'chrome://extensions'
 3) Make sure 'Developer mode' is checked
