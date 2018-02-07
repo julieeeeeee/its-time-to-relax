@@ -6,7 +6,7 @@ Modified from Chrome extension: Rainy Mood Offline (Justin Zelinsky) and https:/
 
 ## How to install
 
-1) Download Chrome extension [here](https://github.com/julieeeeeee/its-time-to-relax/branch/background.html)
+1) Download Chrome extension [here](https://github.com/julieeeeeee/its-time-to-relax/blob/master/background.html)
 2) Unzip downloaded file
 3) Make sure 
 2) On Chrome, go to: 'chrome://extensions'
