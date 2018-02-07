@@ -9,7 +9,7 @@ A Chrome extension which allows you to take some time and just relax
 3) Make sure 
 2) On Chrome, go to: 'chrome://extensions'
 
-This is [chrome://extensions](chrome://extensions){:target="_blank"}
+This is [here](http://google.com){:target="_blank"}
 
 
 
