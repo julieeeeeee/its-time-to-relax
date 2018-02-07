@@ -1,15 +1,18 @@
-Rainy Mood Offline
+It's time to relax
 ==================
 
-I took a Rainy Mood extension which just loaded the website in the background and made it so that you have the actual
-rain audio file, so it works offline.
+A Chrome extension which allows you to take some time and just relax
 
-The images were a part of another Rainy Mood extension but I cannot seem to find the source to give credit -- I didn't create them.
-
+Modified from Chrome extension: Rainy Mood Offline (Justin Zelinsky) and https://github.com/justinzelinsky/relax
 
 How to install
 ==============
 
-Download (or clone) this repository.
+1) Download Chrome extension [here](https://github.com/julieeeeeee/its-time-to-relax/archive/master.zip)
+2) On Chrome, go to: [chrome://extensions/](chrome://extensions/)
+3) Make sure 'Developer mode' is checked
+4) Click 'Load unpacked extension...'
+5) Find and select the downloaded file
+6) Done!
 
-In Chrome, navigate to `chrome://extensions/` and click *Load unpacked extension...*, and select the downloaded folder.
+Enjoy!
