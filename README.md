@@ -2,10 +2,6 @@
 
 A Chrome extension which allows you to take some time and just relax
 
-# Credits
-
-Justin Zelinsky (Basically, I moved code from https://github.com/justinzelinsky/relax into the Chrome extension: Rainy Mood Offline and added coffee images to set the mood ^_^)
-
 ## How to install
 
 1) Download Chrome extension [here](https://github.com/julieeeeeee/its-time-to-relax/blob/master/background.html?raw=true)
@@ -16,5 +12,9 @@ Justin Zelinsky (Basically, I moved code from https://github.com/justinzelinsky/
 4) Click 'Load unpacked extension...'
 5) Find and select folder 'its-time-to-relax-master'
 6) Done!
+
+## Credits
+
+Justin Zelinsky (Basically, I moved code from https://github.com/justinzelinsky/relax into the Chrome extension: Rainy Mood Offline and added coffee images to set the mood ^_^)
 
 Enjoy!
